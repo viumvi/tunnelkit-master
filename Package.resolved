@@ -21,10 +21,10 @@
     {
       "identity" : "wireguard-apple",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/groupofstars/wireguard-apple",
+      "location" : "https://github.com/AtomSDK/wireguard-apple",
       "state" : {
-        "revision" : "f8cdfd6a78972c1060b5815728629d6de4e68f9b",
-        "version" : "3.0.0"
+        "revision" : "106698090f9d1edee8d4f3f3689d18539fcdbf15",
+        "version" : "3.2.0"
       }
     }
   ],
