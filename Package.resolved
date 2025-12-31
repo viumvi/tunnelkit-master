@@ -5,8 +5,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/passepartoutvpn/openssl-apple",
       "state" : {
-        "revision" : "026702febcaebcbf9ea68f2fa66b017eba998cdf",
-        "version" : "3.2.105"
+        "revision" : "40b45a2a746b3187064e52c565d457e8834222d0",
       }
     },
     {
@@ -21,7 +20,7 @@
     {
       "identity" : "wireguard-apple",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/AtomSDK/wireguard-apple",
+      "location" : "https://github.com/viumvi/wireguard-apple",
       "state" : {
         "branch" : "master",
         "revision" : "106698090f9d1edee8d4f3f3689d18539fcdbf15"
