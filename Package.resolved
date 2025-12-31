@@ -3,7 +3,7 @@
     {
       "identity" : "openssl-apple",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/passepartoutvpn/openssl-apple",
+      "location" : "https://github.com/viumvi/openssl-apple",
       "state" : {
         "revision" : "40b45a2a746b3187064e52c565d457e8834222d0",
       }
